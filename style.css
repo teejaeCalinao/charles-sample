@@ -22,6 +22,6 @@ html {
 	font-family: "Poppins",sans-serif;
 }
 
-h1,h2,h3,h4, .nav-link {
+h1,h2,h3,h4, .nav-link,.card-title {
 	font-family: "Lora",serif;
 }
